@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="170.8119mm"
+   height="58.808872mm"
+   viewBox="0 0 170.8119 58.808872"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="layered_faceted.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="255.70778"
+     inkscape:cy="76.430932"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.679542,-84.334941)">
+    <rect
+       id="rect3713"
+       width="33.910282"
+       height="36.431469"
+       x="16.976627"
+       y="95.055534"
+       style="fill:#afe9af;stroke:#217821;stroke-width:0.59417111;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:0.77399998;fill:#afe9af;stroke:#217821;stroke-width:0.59417111;stroke-miterlimit:4;stroke-dasharray:none"
+       y="90.378319"
+       x="22.054749"
+       height="36.431469"
+       width="33.910282"
+       id="rect4520" />
+    <rect
+       id="rect4522"
+       width="33.910282"
+       height="36.431469"
+       x="27.533773"
+       y="84.632027"
+       style="opacity:0.77399998;fill:#afe9af;stroke:#217821;stroke-width:0.59417111;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="fill:#afe9af;stroke:#217821;stroke-width:0.59417111;stroke-miterlimit:4;stroke-dasharray:none"
+       y="95.055534"
+       x="80.45314"
+       height="36.431469"
+       width="33.910282"
+       id="rect4528" />
+    <rect
+       id="rect4530"
+       width="33.910282"
+       height="36.431469"
+       x="116.86862"
+       y="95.055534"
+       style="opacity:0.77399998;fill:#afe9af;stroke:#217821;stroke-width:0.59417111;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="opacity:0.77399998;fill:#afe9af;stroke:#217821;stroke-width:0.59417111;stroke-miterlimit:4;stroke-dasharray:none"
+       y="95.055534"
+       x="153.28407"
+       height="36.431469"
+       width="33.910282"
+       id="rect4532" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.90725517px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17268138"
+       x="17.464241"
+       y="143.05275"
+       id="text4536"><tspan
+         sodipodi:role="line"
+         id="tspan4534"
+         x="17.464241"
+         y="143.05275"
+         style="stroke-width:0.17268138">LAYERED</tspan></text>
+    <text
+       id="text4540"
+       y="143.05275"
+       x="120.22938"
+       style="font-style:normal;font-weight:normal;font-size:6.90725517px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.17268138"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.17268138"
+         y="143.05275"
+         x="120.22938"
+         id="tspan4538"
+         sodipodi:role="line">FACETED</tspan></text>
+  </g>
+</svg>
